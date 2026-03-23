@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibSolution", "MyLibSolution\MyLibSolution.csproj", "{752006AC-615C-4AEF-AB79-2CD7F3FF53D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib.Tests", "MyLib.Tests\MyLib.Tests.csproj", "{680AF017-395E-4578-829F-F41A4E96EEBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{752006AC-615C-4AEF-AB79-2CD7F3FF53D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{752006AC-615C-4AEF-AB79-2CD7F3FF53D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{752006AC-615C-4AEF-AB79-2CD7F3FF53D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680AF017-395E-4578-829F-F41A4E96EEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680AF017-395E-4578-829F-F41A4E96EEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680AF017-395E-4578-829F-F41A4E96EEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680AF017-395E-4578-829F-F41A4E96EEBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

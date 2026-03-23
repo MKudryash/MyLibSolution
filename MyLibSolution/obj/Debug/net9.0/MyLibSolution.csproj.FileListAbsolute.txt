@@ -1,0 +1,11 @@
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/bin/Debug/net9.0/MyLibSolution.deps.json
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/bin/Debug/net9.0/MyLibSolution.dll
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/bin/Debug/net9.0/MyLibSolution.pdb
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/Debug/net9.0/MyLibSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/Debug/net9.0/MyLibSolution.AssemblyInfoInputs.cache
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/Debug/net9.0/MyLibSolution.AssemblyInfo.cs
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/Debug/net9.0/MyLibSolution.csproj.CoreCompileInputs.cache
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/Debug/net9.0/MyLibSolution.dll
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/Debug/net9.0/refint/MyLibSolution.dll
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/Debug/net9.0/MyLibSolution.pdb
+/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/Debug/net9.0/ref/MyLibSolution.dll
