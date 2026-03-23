@@ -10,15 +10,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Your Name")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MKudryash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Simple calculator library")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c67cc4dfaf8b78e426a675f18759e3975fb22f8")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Calculator library demo for CI/CD")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.4.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4+a13f2cd0b3280e80d1fd6c7c8cfd28ea433e21a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLibSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyLibSolution")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/YOUR/MyLibSolution")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.4.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/MKudryash/MyLibSolution")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

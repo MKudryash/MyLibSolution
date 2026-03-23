@@ -4,16 +4,13 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        
-        
-        <Description>Simple calculator library</Description>
-        <PackageId>MyLib</PackageId>
-        <Version>1.0.0</Version>
-        <Authors>Your Name</Authors>
-        <Description>Simple calculator library</Description>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <RepositoryUrl>https://github.com/YOUR/MyLibSolution</RepositoryUrl>
-        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+
+        <PackageId>MKudryash.Calculator</PackageId>   <!-- было MyLibSolution -->
+        <Version>1.0.4</Version>                       <!-- увеличьте версию -->
+        <Authors>MKudryash</Authors>
+        <Description>Calculator library demo for CI/CD</Description>
+        <RepositoryUrl>https://github.com/MKudryash/MyLibSolution</RepositoryUrl>
     </PropertyGroup>
 
 </Project>

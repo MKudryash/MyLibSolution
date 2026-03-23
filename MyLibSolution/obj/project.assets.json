@@ -11,10 +11,10 @@
     "/Users/julia/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.4",
     "restore": {
       "projectUniqueName": "/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/MyLibSolution.csproj",
-      "projectName": "MyLib",
+      "projectName": "MKudryash.Calculator",
       "projectPath": "/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/MyLibSolution.csproj",
       "packagesPath": "/Users/julia/.nuget/packages/",
       "outputPath": "/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/",
