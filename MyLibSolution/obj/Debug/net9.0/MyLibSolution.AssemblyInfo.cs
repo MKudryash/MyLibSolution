@@ -10,13 +10,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MyLibSolution")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Your Name")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Simple calculator library")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1133191e1afe0ad8228a7a4313e3cd2a8d1835d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef62b40a0328e3f5cecdde25aab054811927771")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLibSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyLibSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/YOUR/MyLibSolution")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

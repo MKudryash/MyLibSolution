@@ -89,7 +89,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/MyLibSolution.csproj",
-        "projectName": "MyLibSolution",
+        "projectName": "MyLib",
         "projectPath": "/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/MyLibSolution.csproj",
         "packagesPath": "/Users/julia/.nuget/packages/",
         "outputPath": "/Users/julia/RiderProjects/MyLibSolution/MyLibSolution/obj/",
