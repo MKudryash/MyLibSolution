@@ -1,13 +1,9 @@
-
-name: Publish NuGet
-
-on:
-  release:
-    types: [ published ]
-
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      packages: write        # ← обязательно!
+      contents: read
 
     steps:
       - uses: actions/checkout@v4
@@ -23,7 +19,10 @@ jobs:
         run: dotnet test --configuration Release
 
       - name: Pack
-        run: dotnet pack src/MyLib/MyLib.csproj --configuration Release --no-build
+        run: dotnet pack MyLibSolution/MyLibSolution.csproj \
+          --configuration Release --no-build
 
-      - name: Push to NuGet
-        run: dotnet nuget push src/MyLib/bin/Release/*.nupkg --api-key ${{ secrets.NUGET }} --source https://api.nuget.org/v3/index.json
+      - name: Push to GitHub Packages
+        run: dotnet nuget push MyLibSolution/bin/Release/*.nupkg \
+          --api-key ${{ secrets.GITHUB_TOKEN }} \
+          --source "https://nuget.pkg.github.com/MKudryash/index.json"
